@@ -16,7 +16,7 @@ import pandas as pd
 import numpy as np
 from NetworkSecurity.logging.logger import logging
 from NetworkSecurity.exception.exception import networkSecurityException
-
+    
 
 class NetworkDataExtract():
     def __init__(self):
